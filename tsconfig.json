@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "src/out",
+        "target": "es2020",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true
+    },
+    "include": [
+        "./src/**/*"
+    ],
+    "exclude": []
+}
